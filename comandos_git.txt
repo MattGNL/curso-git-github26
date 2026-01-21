@@ -6,3 +6,5 @@ Ctrl L - limpa
 PWD - diz onde estou, o caminho
 CAT - Mostra o conteúdo
 RM - Remove arquivo do dir
+
+TRALALEO TRALALA
