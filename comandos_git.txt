@@ -7,9 +7,9 @@ PWD - diz onde estou, o caminho
 CAT - Mostra o conteúdo
 RM - Remove arquivo do dir
 
-<<<<<<< HEAD
-TRALALEO TRALALA
-=======
+
+TRALALEO TRALALAgfgfgfgfgfgfgfgfgfgfgfgfgf
+
 ** FLUXO DE TRABALHO **
 
 1. Criar o diretório usando o mkdir "pasta";
@@ -20,4 +20,4 @@ TRALALEO TRALALA
 6. Git commit -m "Commitar o arquivo";
 7. Git status;
 Repita a partir do passo 3.
->>>>>>> main
+
