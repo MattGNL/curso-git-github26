@@ -20,5 +20,5 @@ Repita a partir do passo 3.
 
 <<<<<<< HEAD
 =======
-VAMO GREMIO
+VAMO GREMIOdsdsds
 >>>>>>> segundo
