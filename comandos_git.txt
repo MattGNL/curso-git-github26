@@ -17,3 +17,5 @@ RM - Remove arquivo do dir
 6. Git commit -m "Commitar o arquivo";
 7. Git status;
 Repita a partir do passo 3.
+
+Fazendo novos testes.
