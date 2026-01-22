@@ -18,4 +18,5 @@ RM - Remove arquivo do dir
 7. Git status;
 Repita a partir do passo 3.
 
-BORA GREMIO
+
+BORA GREMIO VAMO GREMIO
