@@ -19,3 +19,5 @@ RM - Remove arquivo do dir
 Repita a partir do passo 3.
 
 Fazendo novos testes.
+
+A Dio é muito linda.
